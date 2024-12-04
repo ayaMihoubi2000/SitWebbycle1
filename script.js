@@ -4,70 +4,70 @@ let models = [
     description: "Un vélo sportif pour des performances de haut niveau.",
     price: 1200,
     status: "En stock",
-    image: "images/download-1.jpg"
+    image: "./images/download-1.jpg"
   },
   {
     name: "Vélo de Ville Y",
     description: "Idéal pour la ville, léger et confortable.",
     price: 850,
     status: "Rupture de stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo Route Z",
     description: "Vélo de course haute performance.",
     price: 1500,
     status: "En stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo VTT A",
     description: "Vélo tout terrain pour aventures extrêmes.",
     price: 900,
     status: "En stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo Urbain B",
     description: "Parfait pour les trajets quotidiens en ville.",
     price: 600,
     status: "Rupture de stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo Électrique C",
     description: "Vélo électrique pour plus de confort et de vitesse.",
     price: 2200,
     status: "En stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo de Route D",
     description: "Vélo de route avec un design aérodynamique.",
     price: 1400,
     status: "En stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo de Ville E",
     description: "Vélo élégant pour des déplacements urbains.",
     price: 750,
     status: "En stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo VTT F",
     description: "Vélo robuste pour les sentiers de montagne.",
     price: 1000,
     status: "Rupture de stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   },
   {
     name: "Vélo Pliant G",
     description: "Vélo pliant pratique pour le transport.",
     price: 500,
     status: "En stock",
-    image: "images/download.jpg"
+    image: "./images/download.jpg"
   }
 ];
 
